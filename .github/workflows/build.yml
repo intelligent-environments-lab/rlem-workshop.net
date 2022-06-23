@@ -1,8 +1,8 @@
 # Gets triggered upon the creation of a new tag
 on: [push]
-  #  push:
-  #    tags:
-  #    - 'v*' # Matches tags with the name "v*", i.e. v1.0, v20.15.10
+  push:
+    tags:
+    - 'v*' # Matches tags with the name "v*", i.e. v1.0, v20.15.10
 
 name: Generate Website and add as Release
 # Performs the following steps:
