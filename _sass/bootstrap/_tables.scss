@@ -25,6 +25,30 @@
   }
 }
 
+@media only screen and (max-width: 321px) {
+  .logo-name {
+    font-size: 4em;
+    margin-bottom: .4em;
+  }
+  .schedule-tbl .schedule-description {
+    display: none;
+  }
+  .schedule-tbl .schedule-slot {
+    width: auto;
+  }
+  /* partners */
+  .sponsor-item,
+  .partner-item {
+    margin: 0 12px 15px 0;
+  }
+  .sponsor--link,
+  .partner-link {
+    width: 115px;
+    height: 115px;
+    line-height: 115px;
+    margin-bottom: 115px;
+  }
+}
 
 //
 // Condensed table w/ half padding
@@ -182,4 +206,79 @@
       }
     }
   }
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+  width: 100%;
+}
+td {
+  vertical-align: middle;
+}
+.chromeframe {
+  margin: 0.2em 0;
+  background: #ccc;
+  color: black;
+  padding: 0.2em 0;
+}
+
+/* =============================================================================
+   SCHEDULE
+   ========================================================================== */
+.schedule-tbl {
+    padding: 20px;
+}
+.schedule-tbl table {
+    border-collapse: collapse;
+    font-size: 1em;
+}
+.schedule-tbl td,
+.schedule-tbl th {
+    position: relative;
+    padding: 15px 20px;
+    font-size: 1.4em;
+    line-height: 1.4em;
+    text-align: left;
+}
+.schedule-tbl th {
+    padding: 5px 20px;
+    color: #2b2b2b;
+    font-size: 2em;
+    font-weight: bolder;
+  }
+.schedule-tbl .speaker-photo {
+    position: relative;
+    width: 60px;
+    height: 60px;
+    float: left;
+    margin-right: 20px;
+}
+.schedule-tbl .schedule-time {
+    text-align: left;
+    width: 20%;
+}
+.schedule-slot {
+    width: 750px;
+    font-size: 16px;
+}
+.speakers-company {
+    display: block;
+    font-size: 12px;
+}
+
+/* =============================================================================
+   Important Dates
+========================================================================== */
+.important-dates {
+    font-size: 1.2em;
+    font-weight: bold;
+    color: #777;
+    margin: 0%
+}
+.done {
+    text-decoration-line: line-through;
+}
+.undone {
+    color: #f77750;
 }

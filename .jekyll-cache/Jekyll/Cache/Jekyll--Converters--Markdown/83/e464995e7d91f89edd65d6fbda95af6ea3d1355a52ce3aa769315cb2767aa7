@@ -1,0 +1,58 @@
+I"œ<h1 class="display-5 mb-4">
+    Important Dates
+</h1>
+
+<div class="schedule-tbl">
+  <table>
+    <tbody>
+      
+      <tr>
+        <td class="schedule-slot">
+            <p class="important-dates">Abstract submission</p>
+        </td>
+        <td class="schedule-slot">
+            <p class="important-dates undone">August 15, 2022 (AOE)</p>
+        </td>
+      </tr>
+      
+      <tr>
+        <td class="schedule-slot">
+            <p class="important-dates">Paper submission</p>
+        </td>
+        <td class="schedule-slot">
+            <p class="important-dates undone">August 22, 2022 (AOE)</p>
+        </td>
+      </tr>
+      
+      <tr>
+        <td class="schedule-slot">
+            <p class="important-dates">Notifications</p>
+        </td>
+        <td class="schedule-slot">
+            <p class="important-dates undone">September 9, 2022 (AOE)</p>
+        </td>
+      </tr>
+      
+      <tr>
+        <td class="schedule-slot">
+            <p class="important-dates">Camera Ready</p>
+        </td>
+        <td class="schedule-slot">
+            <p class="important-dates undone">September 16, 2022 (AOE)</p>
+        </td>
+      </tr>
+      
+      <tr>
+        <td class="schedule-slot">
+            <p class="important-dates">Workshop date</p>
+        </td>
+        <td class="schedule-slot">
+            <p class="important-dates undone">November 8, 2022</p>
+        </td>
+      </tr>
+      
+    </tbody>
+  </table>
+</div>
+
+:ET
