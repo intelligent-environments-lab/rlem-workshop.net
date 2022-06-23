@@ -1,7 +1,7 @@
-title: RLEM 2022
+title: ACM SIGEnergy Workshop on Reinforcement Learning for Energy Management in Buildings & Cities (RLEM)
 preposition: at
 description: >-
-  Conference of a random organization on January 1st in Zurich, Switzerland
+  RLEM brings together researchers and industry practitioners for the advancement of (deep) reinforcement learning (RL) in the built environment as it is applied for managing energy in civil infrastructure systems (energy, water, transportation).
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://rlem-workshop.net/" # the base hostname & protocol for your site, e.g. https://example.com
 
@@ -105,15 +105,13 @@ conference:
 
   # Information boxes
   info_bars:
-    - title: Welcome to the Conference Theme for Jekyll!
+    - title: Welcome to the RLEM Workshop!
       color: primary
       main_only: true
       text: |
         The Theme was originally made for the [Winterkongress](https://www.digitale-gesellschaft.ch/kongress/), a yearly conference of the [Digital Society Switzerland](https://digitale-gesellschaft.ch/).
 
-        ---
 
-        See the [README](github.com/DigitaleGesellschaft/jekyll-theme-conference/) on the project's GitHub repository for further information on how to configure and adapt it to your needs.
     - text: This is just some random content for demonstration purposes.
       color: warning
       pages_only: true
