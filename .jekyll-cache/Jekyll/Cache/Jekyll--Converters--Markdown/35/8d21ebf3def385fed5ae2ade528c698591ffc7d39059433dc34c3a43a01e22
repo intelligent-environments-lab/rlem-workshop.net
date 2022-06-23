@@ -1,0 +1,2 @@
+I"É<p>The main categories (or tracks) of the different talks as well as their coloring can be adapted in the <code class="language-plaintext highlighter-rouge">_config.yml</code> file under <code class="language-plaintext highlighter-rouge">conference.talks.main_categories</code>. See also the <a href="https://github.com/DigitaleGesellschaft/jekyll-theme-conference/#talk-settings-main-categories">Talk Settings</a> section of the themeâ€™s README file.</p>
+:ET
