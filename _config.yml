@@ -3,7 +3,7 @@ preposition: at
 description: >-
   Conference of a random organization on January 1st in Zurich, Switzerland
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://rlem-workshop.net/" # the base hostname & protocol for your site, e.g. https://example.com
+url: "rlem-workshop.net" # the base hostname & protocol for your site, e.g. https://example.com
 
 theme: jekyll-theme-conference
 
