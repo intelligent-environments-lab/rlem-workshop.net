@@ -1,7 +1,7 @@
 title: RLEM Workshop - BuildSys'22
 preposition: at
 description: Second ACM SIGEnergy Workshop on Reinforcement Learning for Energy Management in Buildings & Cities (RLEM)
-  >-
+  >
   About RLEM
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://rlem-workshop.net/" # the base hostname & protocol for your site, e.g. https://example.com
@@ -80,10 +80,10 @@ conference:
     links:
       - name: Important Dates
         relative_url: /important/
+      - name: Call for Papers
+        relative_url: /cfp/
       - name: Program
         relative_url: /program/
-      - name: Talks
-        relative_url: /talks/
       - name: Speakers
         relative_url: /speakers/
       - name: Location
@@ -92,10 +92,10 @@ conference:
         menu:
           - name: 2022 (current)
             disabled: true
-          - name: 2021
-            relative_url: /2021/
-          - name: 2020
-            relative_url: /2020/
+          # - name: 2021
+          #   relative_url: /2021/
+          # - name: 2020
+          #   relative_url: /2020/
 
   # Link Preview for Sharing
   link_preview:
@@ -112,13 +112,12 @@ conference:
     links:
       - name: Important Dates
         relative_url: /important/
+      - name: Call for Papers
+        relative_url: /cfp/
       - name: Program
         relative_url: /program/
       - name: How to get there
         relative_url: /location/
-      - name: Tickets
-        disabled: true
-        absolute_url: ''
 
   # Information boxes
   info_bars:
@@ -126,9 +125,9 @@ conference:
       color: primary
       main_only: true
       text: |
-        Call for papers coming soon!
+        Call for papers is live and registration is coming soon!
 
-    - text: This is just some random content for demonstration purposes.
+    - text: Don't forget to check out the main conference BuildSys'22!
       color: warning
       pages_only: true
 
