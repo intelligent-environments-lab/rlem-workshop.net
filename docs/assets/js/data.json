@@ -3,7 +3,7 @@
         {
             "name": "Monday",
             "hash": "mo",
-            "date": "2020-01-31"
+            "date": "2022-09-09"
         }
     ],
 
@@ -11,15 +11,15 @@
     },
 
     "speakers": {
-        "Tolga Philip" : {
-            "name": "Tolga Philip",
+        "TBD2" : {
+            "name": "T BD",
             "href": "/speakers/person-a/"
         },
-        "Alex Rosales" : {
-            "name": "Alex Rosales",
+        "TBD1" : {
+            "name": "T BD",
             "href": "/speakers/person-b/"
         },
-        "The Anonymous" : {
+        "TBD" : {
             "name": "The Anonymous",
             "href": ""
         }
