@@ -1,4 +1,4 @@
-title: RLEM Workshop - BuildSys'22
+title: RLEM Workshop
 preposition: at
 description: Third ACM SIGEnergy Workshop on Reinforcement Learning for Energy Management in Buildings & Cities (RLEM)
   >
@@ -107,7 +107,7 @@ conference:
   # Navigation bar
   navigation:
     logo:
-      name: BuildSys'22
+      name: ACM
       # img: ''
       url: 'https://buildsys.acm.org/2022/'
     links:
@@ -164,9 +164,9 @@ conference:
       text: |
         Call for papers is live and registration is coming soon!
 
-    - text: Don't forget to check out the main conference BuildSys'22!
-      color: warning
-      pages_only: true
+    # - text: Don't forget to check out the main conference BuildSys'22!
+    #   color: warning
+    #   pages_only: true
 
   # Live indications
   live:
