@@ -53,13 +53,13 @@ defaults:
 # List of Important Days
 important_dates:
   - name: "Abstract submission"
-    date: "August 15, 2022 (AOE)"
+    date: "September 5, 2022 (AOE)"
   - name: "Paper submission"
     date: "September 5, 2022 (AOE)"
   - name: "Notifications"
-    date: "September 9, 2022 (AOE)"
+    date: "September 15, 2022 (AOE)"
   - name: "Camera Ready"
-    date: "September 16, 2022 (AOE)"
+    date: "September 29, 2022 (AOE)"
   - name: "Workshop date"
     date: "November 8, 2022"
 
