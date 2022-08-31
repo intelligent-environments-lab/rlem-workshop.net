@@ -55,7 +55,7 @@ important_dates:
   - name: "Abstract submission"
     date: "August 15, 2022 (AOE)"
   - name: "Paper submission"
-    date: "August 22, 2022 (AOE)"
+    date: "September 5, 2022 (AOE)"
   - name: "Notifications"
     date: "September 9, 2022 (AOE)"
   - name: "Camera Ready"
@@ -95,7 +95,7 @@ organization:
   - role: "Technical Program Committee"
     chair: false
     member:
- 
+
 conference:
 
   # Language
