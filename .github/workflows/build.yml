@@ -28,7 +28,7 @@ jobs:
 
       - name: Build website
         run: |
-          bundle exec jekyll build -s docs/ -d _site/
+          bundle exec jekyll build -d _site/
 
       - name: Install Minify
         run: |
