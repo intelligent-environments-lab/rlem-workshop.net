@@ -1,5 +1,5 @@
 # Gets triggered upon the creation of a new tag
-on: [push]
+on:
   push:
     tags:
     - 'v*' # Matches tags with the name "v*", i.e. v1.0, v20.15.10
@@ -31,7 +31,7 @@ jobs:
 
       - name: Build website
         run: |
-          bundle exec jekyll build -d _site/
+          bundle exec jekyll build -s docs/ -d _site/
 
       - name: Install Minify
         run: |
