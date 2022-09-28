@@ -1,0 +1,31 @@
+
+- role: "General"
+  chair: true
+  member:
+    - name: "Zoltan Nagy"
+      url: "https://nagy.caee.utexas.edu/team/prof-zoltan-nagy-phd/"
+      affiliation: "University of Texas at Austin"
+    - name: "Jan Drgona"
+      url: "https://www.pnnl.gov/people/jan-drgona"
+      affiliation: "Pacific Northwest National Laboratory"
+- role: "Technical Program Committee"
+  chair: true
+  member:
+    - name: "Kuldeep Kurte"
+      url: "https://www.ornl.gov/staff-profile/kuldeep-r-kurte"
+      affiliation: "Oak Ridge National Laboratory"
+    - name: "Matias Quintana"
+      url: "https://matiasquintana.com/"
+      affiliation: "National University of Singapore"
+    - name: "Yaxin Bi"
+      url: "https://www.ulster.ac.uk/staff/y-bi"
+      affiliation: "Ulster University at Jordanstown"
+- role: "Web"
+  chair: True
+  member:
+    - name: "Kingsley Nweye"
+      url: "https://www.linkedin.com/in/kingsley-nweye-892074139/"
+      affiliation: "University of Texas at Austin"
+- role: "Technical Program Committee"
+  chair: false
+  member:

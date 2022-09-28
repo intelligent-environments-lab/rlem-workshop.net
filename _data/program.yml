@@ -1,7 +1,7 @@
-days:
-- name: Monday
-  abbr: Mo
-  date: 2022-09-09
+# days:
+# - name: Monday
+#   abbr: Mo
+#   date: 2020-01-31
 #   rooms:
 #   - name: Room A
 #     talks:
@@ -23,3 +23,27 @@ days:
 #       - name: Eu Nisl Nunc Mi Ipsum Faucibus
 #         time_start: '13:30'
 #         time_end: '14:30'
+
+days:
+- name: Tuesday
+  abbr: Tu
+  date: 2022-11-08
+  rooms:
+  - name: Room
+    talks:
+      - name: Introduction & Welcome
+        time_start: '12:00'
+        time_end: '12:45'
+      - name: Keynote 1
+        time_start: '12:45'
+        time_end: '13:30'
+      - name: Paper Presentations
+        time_start: '13:30'
+        time_end: '14:30'
+      - name: Keynote 2
+        time_start: '14:30'
+        time_end: '14:45'
+      - name: Panel Discussion
+        time_start: '14:45'
+        time_end: '15:45'
+

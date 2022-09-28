@@ -7,6 +7,5 @@ RLEM brings together researchers and industry practitioners for the advancement 
 RLEM'22 will be held in conjunction with [ACM BuildSys'22](https://buildsys.acm.org/2022/).
 
 
-<h2>Registration</h2>
-
-<p>Registration: <a href="https://buildsys.acm.org/2022/registration/">Register now via BuildSys 2022</a></p>
+## Registration:
+[Register now via BuildSys 2022!](https://buildsys.acm.org/2022/registration/)

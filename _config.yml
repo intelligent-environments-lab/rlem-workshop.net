@@ -1,9 +1,7 @@
-title: RLEM Workshop
+title: RLEM Workshop 2022
 preposition: at
 description: Third ACM SIGEnergy Workshop on Reinforcement Learning for Energy Management in Buildings & Cities (RLEM)
-  >
-  About RLEM
-baseurl: "" # the subpath of your site, e.g. /blog
+# baseurl: "/test_site" # the subpath of your site, e.g. /blog
 url: "https://rlem-workshop.net/" # the base hostname & protocol for your site, e.g. https://example.com
 
 theme: jekyll-theme-conference
@@ -33,6 +31,7 @@ collections:
     output: true
     permalink: /:collection/:title/
 
+# Default scopes
 defaults:
   - scope:
       path: ""
@@ -50,52 +49,6 @@ defaults:
     values:
       layout: room
 
-# List of Important Days
-important_dates:
-  - name: "Abstract submission"
-    date: "September 5, 2022 (AOE)"
-  - name: "Paper submission"
-    date: "September 5, 2022 (AOE)"
-  - name: "Notifications"
-    date: "September 15, 2022 (AOE)"
-  - name: "Camera Ready"
-    date: "September 29, 2022 (AOE)"
-  - name: "Workshop date"
-    date: "November 8, 2022"
-
-# Organisation
-organization:
-  - role: "General"
-    chair: true
-    member:
-      - name: "Zoltan Nagy"
-        url: "https://nagy.caee.utexas.edu/team/prof-zoltan-nagy-phd/"
-        affiliation: "University of Texas at Austin"
-      - name: "Jan Drgona"
-        url: "https://www.pnnl.gov/people/jan-drgona"
-        affiliation: "Pacific Northwest National Laboratory"
-  - role: "Technical Program Committee"
-    chair: true
-    member:
-      - name: "Kuldeep Kurte"
-        url: "https://www.ornl.gov/staff-profile/kuldeep-r-kurte"
-        affiliation: "Oak Ridge National Laboratory"
-      - name: "Matias Quintana"
-        url: "https://matiasquintana.com/"
-        affiliation: "National University of Singapore"
-      - name: "Yaxin Bi"
-        url: "https://www.ulster.ac.uk/staff/y-bi"
-        affiliation: "Ulster University at Jordanstown"
-  - role: "Web"
-    chair: True
-    member:
-      - name: "Kingsley Nweye"
-        url: "https://www.linkedin.com/in/kingsley-nweye-892074139/"
-        affiliation: "University of Texas at Austin"
-  - role: "Technical Program Committee"
-    chair: false
-    member:
-
 conference:
 
   # Language
@@ -112,21 +65,21 @@ conference:
       url: 'https://buildsys.acm.org/2022/'
     links:
       - name: Dates
-        relative_url: /important/
+        relative_url: /dates/
       - name: CfP
         relative_url: /cfp/
       - name: Program
         relative_url: /program/
       - name: Speakers
         relative_url: /speakers/
-      - name: Organisation
-        relative_url: /organisation/
+      - name: Organization
+        relative_url: /organization/
       - name: Location
         relative_url: /location/
-      - name: Previous Editions
-        menu:
-          - name: 2022 (current)
-            disabled: true
+      # - name: Previous Editions
+      #   menu:
+      #     - name: 2022 (current)
+      #       disabled: true
           # - name: 2021
           #   relative_url: /2021/
           # - name: 2020
@@ -140,33 +93,33 @@ conference:
       twitter: 'twitter_preview.png'      # inside /assets/images/
       open_graph: 'facebook_preview.png'  # inside /assets/images/
 
-  # Main landing page
-  main:
-    # logo:
-    #   img: ''
-    links:
-      - name: Important Dates
-        relative_url: /important/
-      - name: Call for Papers
-        relative_url: /cfp/
-      - name: Program
-        relative_url: /program/
-      - name: Organisation
-        relative_url: /organisation/
-      - name: How to get there
-        relative_url: /location/
+  # # Main landing page
+  # main:
+  #   # logo:
+  #   #   img: ''
+  #   links:
+  #     - name: Program
+  #       relative_url: /program/
+  #     - name: How to get there
+  #       relative_url: /location/
+  #     - name: Tickets
+  #       disabled: true
+  #       absolute_url: ''
 
-  # Information boxes
-  info_bars:
-    - title: Welcome to the RLEM Workshop!
-      color: primary
-      main_only: true
-      text: |
-        Call for papers is live and registration is coming soon!
+  # # Information boxes
+  # info_bars:
+  #   - title: Welcome to the Conference Theme for Jekyll!
+  #     color: primary
+  #     main_only: true
+  #     text: |
+  #       The Theme was originally made for the [Winterkongress](https://www.digitale-gesellschaft.ch/kongress/), a yearly conference of the [Digital Society Switzerland](https://digitale-gesellschaft.ch/).
 
-    # - text: Don't forget to check out the main conference BuildSys'22!
-    #   color: warning
-    #   pages_only: true
+  #       ---
+
+  #       See the [README](github.com/DigitaleGesellschaft/jekyll-theme-conference/) on the project's GitHub repository for further information on how to configure and adapt it to your needs.
+  #   - text: This is just some random content for demonstration purposes.
+  #     color: warning
+  #     pages_only: true
 
   # Live indications
   live:
@@ -197,10 +150,14 @@ conference:
   talks:
     # Talk categories
     main_categories:
-      - name: Cat A
-        color: info
-      - name: Cat B
+      - name: keynote
+        color: primary
+      - name: presentation
         color: success
+      - name: other
+        color: info
+      - name: discussion
+        color: secondary
 
     # Hide icons on talk overview page
     hide_icons: false
@@ -217,7 +174,7 @@ conference:
     # Main page title shown on location/room navigation bar
     navbar_title: 'Location'
     # Show map on location main page
-    map: true
+    map: false
 
   program:
     # URL of program page

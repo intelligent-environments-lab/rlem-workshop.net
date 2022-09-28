@@ -1,4 +1,0 @@
----
----
-
-{% include js/conference.js %}
