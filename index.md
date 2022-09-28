@@ -8,4 +8,4 @@ RLEM'22 will be held in conjunction with [ACM BuildSys'22](https://buildsys.acm.
 
 
 ## Registration:
-[Register now via BuildSys 2022!!](https://buildsys.acm.org/2022/registration/)
+[Register now via BuildSys 2022.](https://buildsys.acm.org/2022/registration/)
