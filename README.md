@@ -22,7 +22,7 @@ Finally, build and run the site locally:
 bundle exec jekyll serve --trace --watch
 ```
 
-A [_site](_site) directory will be created that holds the website content and ideally, the content should not be manually edited nor pushed to the remote branch of this repository.
+A `_site` directory will be created that holds the website content and ideally, the content should not be manually edited nor pushed to the remote branch of this repository.
 
 # GitHub Actions Build
 The website is located at [rlem-workshop.net](http://www.rlem-workshop.net/) and uses GitHub Actions for continuous deployment.
