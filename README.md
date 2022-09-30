@@ -2,7 +2,7 @@
 
 RLEM brings together researchers and industry practitioners for the advancement of (deep) reinforcement learning (RL) in the built environment as it is applied for managing energy in civil infrastructure systems (energy, water, transportation).
 
-This repository holds the source files that are used to build and maintain the [rlem-workshop.net](http://www.rlem-workshop.net/) website. The website theme is taken from [jekyll-theme-conference](https://github.com/DigitaleGesellschaft/jekyll-theme-conference)
+This repository holds the source files that are used to build and maintain the [rlem-workshop.net](http://www.rlem-workshop.net/) website. The website theme is taken from [jekyll-theme-conference](https://github.com/DigitaleGesellschaft/jekyll-theme-conference).
 
 # Local Build (MacOS)
 Follow these [instructions](https://jekyllrb.com/docs/installation/macos/) to install Ruby and Jekyll on MacOS.
