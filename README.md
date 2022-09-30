@@ -7,12 +7,7 @@ This repository holds the source files that are used to build and maintain the [
 # Local Build (MacOS)
 Follow these [instructions](https://jekyllrb.com/docs/installation/macos/) to install Ruby and Jekyll on MacOS.
 
-Install jekyll:
-```console
-gem install jekyll bundler
-```
-
-Bundle the dependencies:
+Bundle the website dependencies:
 ```console
 bundle
 ```
