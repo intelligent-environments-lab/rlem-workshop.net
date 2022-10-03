@@ -150,14 +150,12 @@ conference:
   talks:
     # Talk categories
     main_categories:
-      - name: keynote
+      - name: talk
         color: primary
-      - name: presentation
-        color: success
-      - name: other
-        color: info
       - name: discussion
         color: secondary
+      - name: other
+        color: info
 
     # Hide icons on talk overview page
     hide_icons: false
@@ -181,7 +179,7 @@ conference:
     url: '/program'
 
     # Time steps in program table
-    time_steps: 15 # in minutes
+    time_steps: 5 # in minutes
 
     # Show intermediary time steps (next to full hours)
     show_alltimes: true
