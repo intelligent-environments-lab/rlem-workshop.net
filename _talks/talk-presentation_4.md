@@ -1,10 +1,9 @@
 ---
-name: Keynote 2
+name: 'B2RL: An open-source dataset for building batch reinforcement learning'
 speakers:
-  - Keynote 2 Speaker
+  - Paper Presentation Speaker
 categories:
-  - keynote
-  - Talk
+  - talk
 ---
 
 <!-- Lorem ipsum dolor sit amet, mel tritani quaestio ne. Sed cu quot erat. Stet mutat moderatius ad vel. Ne eum quod expetendis, odio eros nominavi sed et, eu suscipit atomorum sit. Facete maluisset urbanitas in eos, idque expetendis et vis, et quo everti quaestio maiestatis.
