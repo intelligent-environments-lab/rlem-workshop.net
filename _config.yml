@@ -154,6 +154,8 @@ conference:
         color: primary
       - name: discussion
         color: secondary
+      - name: keynote
+        color: warning
       - name: other
         color: info
 

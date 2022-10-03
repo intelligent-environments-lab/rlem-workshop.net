@@ -3,6 +3,7 @@ name: Keynote 2
 speakers:
   - Keynote 2 Speaker
 categories:
+  - keynote
   - talk
 ---
 
