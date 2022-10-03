@@ -150,7 +150,7 @@ conference:
   talks:
     # Talk categories
     main_categories:
-      - name: talk
+      - name: presentation
         color: primary
       - name: discussion
         color: secondary
