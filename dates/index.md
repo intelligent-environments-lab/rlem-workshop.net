@@ -7,7 +7,6 @@ title: Important Dates
     {{ page.title }}
 </h1>
 
-
 <div class="schedule-tbl">
   <table>
     <tbody>
