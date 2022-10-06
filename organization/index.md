@@ -20,12 +20,11 @@ title: Organization
 </h2>
 <ul class="organization">
   {% for mbr in org.member %}
-  <li>
-    <a href="{{ mbr.url }}">
-      {{ mbr.name }}
-    </a>
-    ({{ mbr.affiliation }})
-  </li>
+    {% for person in site.data.people %}
+      {% if person.name == mbr.name %}
+        <li><a href="{{ person.url }}">{{ person.name }}</a> ({{ person.affiliation }})</li>
+      {% endif %}
+    {% endfor %}
   {% endfor %}
 </ul>
 {% endfor %}
