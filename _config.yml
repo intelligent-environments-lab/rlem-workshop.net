@@ -60,7 +60,7 @@ conference:
   # Navigation bar
   navigation:
     logo:
-      name: ACM
+      name: ACM BuildSys
       # img: ''
       url: 'https://buildsys.acm.org/2022/'
     links:
