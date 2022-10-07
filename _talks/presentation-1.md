@@ -4,6 +4,7 @@ speakers:
   - Paper Presentation Speaker
 categories:
   - presentation
+permalink: "/:collection/:categories/Behavioural Cloning based RL Agents for District Energy Management"
 ---
 
 <!-- Lorem ipsum dolor sit amet, mel tritani quaestio ne. Sed cu quot erat. Stet mutat moderatius ad vel. Ne eum quod expetendis, odio eros nominavi sed et, eu suscipit atomorum sit. Facete maluisset urbanitas in eos, idque expetendis et vis, et quo everti quaestio maiestatis.

@@ -2,9 +2,7 @@
 name: Panel Discussion Moderator
 first_name: Panel Discussion
 last_name: Moderator
-# links:
-#   - name: Profile
-#     absolute_url: https://github.com
+permalink: "/:collection/:categories/Panel Discussion Moderator"
 ---
 
 <!-- Lorem ipsum dolor sit amet, mel tritani quaestio ne. Sed cu quot erat. Stet mutat moderatius ad vel. Ne eum quod expetendis, odio eros nominavi sed et, eu suscipit atomorum sit. Facete maluisset urbanitas in eos, idque expetendis et vis, et quo everti quaestio maiestatis.

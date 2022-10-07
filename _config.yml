@@ -23,7 +23,7 @@ exclude:
 collections:
   talks:
     output: true
-    permalink: /:collection/:title/
+    permalink: /:collection/:name/
   speakers:
     output: true
     permalink: /:collection/:title/
@@ -70,6 +70,8 @@ conference:
         relative_url: /cfp/
       - name: Program
         relative_url: /program/
+      - name: Talks
+        relative_url: /talks/
       - name: Speakers
         relative_url: /speakers/
       - name: Organization
@@ -172,7 +174,7 @@ conference:
     # URL of location / room overview page
     url: '/location'
     # Main page title shown on location/room navigation bar
-    navbar_title: 'Location'
+    navbar_title: 'Directions'
     # Show map on location main page
     map: false
 

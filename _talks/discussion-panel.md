@@ -4,6 +4,7 @@ speakers:
   - Panel Discussion Speaker
 categories:
   - discussion
+permalink: "/:collection/:categories/Panel Discussion"
 ---
 
 Expert Panel/Brainstorming discussion:
