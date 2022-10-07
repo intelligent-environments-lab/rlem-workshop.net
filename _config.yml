@@ -85,8 +85,8 @@ conference:
             relative_url: /
           - name: 2021
             relative_url: /editions/2021/
-          # - name: 2020
-          #   relative_url: editions/2020/
+          - name: 2020
+            relative_url: /editions/2020/
 
   # Link Preview for Sharing
   link_preview:

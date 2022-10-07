@@ -27,7 +27,7 @@ _{{ page.long_name }}_
 
 RLEM'21 will be held in conjunction with [ACM BuildSys'21](http://buildsys.acm.org/2021/). Following BuildSys's directive, the conference will be held virtually on {{ page.date }}.
 
-Watch RLEM'22 recordings: [Part 1](https://lnkd.in/epJrukHC) and [Part 2](https://lnkd.in/e5Te2GqG)!
+Watch RLEM'21 recordings: [Part 1](https://lnkd.in/epJrukHC) and [Part 2](https://lnkd.in/e5Te2GqG)!
 
 ## Registration
 [Register now via BuildSys 2021](http://buildsys.acm.org/2021/).
@@ -87,8 +87,7 @@ All times are in Greenwich Meridian Time (GMT).
 <tbody>
   <tr>
     <td class="tg-0pky"><span style="font-style:normal;text-decoration:none">15:00-15:20</span></td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none">Opening remarks</span></td>
-    <td class="tg-0pky">-</td>
+    <td class="tg-0pky" colspan="2"><span style="font-weight:400;font-style:normal;text-decoration:none">Opening remarks</span></td>
     <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none">General Chair and TPC Chairs</span></td>
     <td class="tg-0pky">-</td>
   </tr>
@@ -118,10 +117,7 @@ All times are in Greenwich Meridian Time (GMT).
   </tr>
   <tr>
     <td class="tg-fymr"><span style="font-weight:400;font-style:normal;text-decoration:none">16:50-17:00</span></td>
-    <td class="tg-0pky">Break</td>
-    <td class="tg-0pky">-</td>
-    <td class="tg-0pky">-</td>
-    <td class="tg-0pky">-</td>
+    <td class="tg-0pky" colspan="4">Break</td>
   </tr>
   <tr>
     <td class="tg-fymr"><span style="font-weight:400;font-style:normal;text-decoration:none">17:00-17:40</span></td>
@@ -156,10 +152,7 @@ All times are in Greenwich Meridian Time (GMT).
   </tr>
   <tr>
     <td class="tg-fymr"><span style="font-weight:400;font-style:normal;text-decoration:none">18:50-19:00</span></td>
-    <td class="tg-0pky">Break</td>
-    <td class="tg-0pky">-</td>
-    <td class="tg-0pky">-</td>
-    <td class="tg-0pky">-</td>
+    <td class="tg-0pky" colspan="4">Break</td>
   </tr>
 
   <tr>
@@ -186,8 +179,7 @@ All times are in Greenwich Meridian Time (GMT).
   </tr>
   <tr>
     <td class="tg-0pky"><span style="font-style:normal;text-decoration:none">20:20-20:30</span></td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none">Closing remarks</span></td>
-    <td class="tg-0pky">-</td>
+    <td class="tg-0pky" colspan="2"><span style="font-weight:400;font-style:normal;text-decoration:none">Closing remarks</span></td>
     <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none">General Chair and TPC Chairs</span></td>
     <td class="tg-0pky">-</td>
   </tr>
@@ -196,7 +188,7 @@ All times are in Greenwich Meridian Time (GMT).
 
 ## Organization
 ##### General Chairs
-1. [Zoltan Nagy]() (University of Texas at Austin)
+1. [Zoltan Nagy](https://www.caee.utexas.edu/people/faculty/faculty-directory/nagy) (University of Texas at Austin)
 
 ##### Technical Program Committee Co-Chairs
 1. [Jan Drgona](https://www.pnnl.gov/people/jan-drgona) (Pacific Northwest National Laboratory)
