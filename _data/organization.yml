@@ -16,12 +16,6 @@
 - role: "Technical Program Committee"
   chair: false
   member:
-    - name: "Zoltan Nagy"
-    - name: "Jan Drgona"
-    - name: "Kuldeep Kurte"
-    - name: "Matias Quintana"
-    - name: "Yaxin Bi"
-    - name: "Kingsley Nweye"
     - name: "Helia Zandi"
     - name: "Himanshu Sharma"
     - name: "June Young Park"
