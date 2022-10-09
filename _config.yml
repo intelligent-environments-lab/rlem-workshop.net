@@ -2,7 +2,7 @@ title: RLEM Workshop 2022
 preposition: at
 description: Third ACM SIGEnergy Workshop on Reinforcement Learning for Energy Management in Buildings & Cities (RLEM)
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://rlem-workshop.net/" # the base hostname & protocol for your site, e.g. https://example.com
+url: "https://www.rlem-workshop.net/" # the base hostname & protocol for your site, e.g. https://example.com
 
 theme: jekyll-theme-conference
 
