@@ -1,7 +1,7 @@
 ---
-name: Keynote 1
+name: "Keynote: Opportunities and Challenges of Building Energy Management using Advanced Building Controls"
 speakers:
-  - Keynote 1 Speaker
+  - Gregor P. Henze
 categories:
   - keynote
 permalink: "/:collection/:categories/Keynote 1"

@@ -1,10 +1,9 @@
 ---
-name: Keynote 1 Speaker
-first_name: Keynote 1
-last_name: Speaker
+name: Gregor P. Henze
+first_name: Gregor
+last_name: Henze
 permalink: "/:collection/:categories/Keynote 1 Speaker"
 ---
 
-<!-- Lorem ipsum dolor sit amet, mel tritani quaestio ne. Sed cu quot erat. Stet mutat moderatius ad vel. Ne eum quod expetendis, odio eros nominavi sed et, eu suscipit atomorum sit. Facete maluisset urbanitas in eos, idque expetendis et vis, et quo everti quaestio maiestatis.
-
-At elit omnium vel, utamur ponderum definitionem cu duo. Ex eam quot meliore. Modus admodum antiopam duo in, et esse incorrupte percipitur nec, ei facete utroque torquatos his. Ea vel moderatius cotidieque conclusionemque, noluisse menandri consetetur id pri. -->
+<img align="left" src="/assets/images/gregor-henze-2017.png">
+[Gregor P. Henze](https://www.colorado.edu/faculty/henze/), Ph.D., P.E. is professor and holds the C.V. Schelke Chair in the Department of Civil, Environmental and Architectural Engineering at the University of Colorado. His teaching focuses on the building energy systems side of architectural engineering, i.e., thermal environmental engineering, HVAC and refrigeration systems, design of energy efficient buildings, building control and automation systems, data science for building engineering applications, and sustainable building design. His research emphasizes model predictive control and reinforcement learning control of building energy systems, building thermal mass, refrigeration systems, model-based benchmarking of building operational performance, fault detection and diagnosis, control strategies for mixed-mode buildings, uncertainty quantification of occupant behavior and its impact, human presence detection, sensor fusion algorithms, energy analytics and decision analysis as well as the integration of building energy system operations with the electric grid system. He is the primary author of more than 150 research articles, four of which have received best paper awards, and received three patents. He received the 2011 Colorado Cleantech Industry Association's Research and Commercialization Award. Prof. Henze is a professional mechanical engineer, certified high-performance building design professional (HBDP), editorial board member for Journal Building Performance Simulation, Fellow of the Renewable and Sustainable Energy Institute, joint professor at the National Renewable Energy Laboratory, collaborating with the power systems engineering and building research groups, as well as co-founder and chief scientist of QCoefficient, Inc., a startup developing real-time optimal control solutions for grid-interactive efficient buildings. Finally, he is the Fulbright Distinguished Chair in Science, Technology, and Innovation at CSIRO in Newcastle, Australia for 2022.
