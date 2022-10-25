@@ -8,7 +8,7 @@ days:
       - name: Introduction
         time_start: '08:00'
         time_end: '08:10'
-      - name: "Keynote: Opportunities and Challenges of Building Energy Management using Advanced Building Controls"
+      - name: "Keynote 1"
         time_start: '08:10'
         time_end: '08:55'
       - name: Break
@@ -26,7 +26,7 @@ days:
       - name: Break
         time_start: '09:50'
         time_end: '10:00'
-      - name: Keynote 2
+      - name: "Keynote: Opportunities and Challenges of Building Energy Management using Advanced Building Controls"
         time_start: '10:00'
         time_end: '10:45'
       - name: 'B2RL: An open-source dataset for building batch reinforcement learning'
