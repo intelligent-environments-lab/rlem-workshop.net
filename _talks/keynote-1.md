@@ -1,7 +1,7 @@
 ---
-name: Keynote 1
+name: "Architecting a Path Toward Generalized Autonomy: Addressing the Biggest Opportunity in Decarbonization"
 speakers:
-  - Keynote 1 Speaker
+  - Troy Harvey
 categories:
   - keynote
 permalink: "/:collection/:categories/Keynote 1"
