@@ -1,10 +1,9 @@
 ---
-name: Keynote 1 Speaker
-first_name: Keynote 1
-last_name: Speaker
+name: Troy Harvey
+first_name: Troy
+last_name: Harvey
 permalink: "/:collection/:categories/Keynote 1 Speaker"
 ---
 
-<!-- Lorem ipsum dolor sit amet, mel tritani quaestio ne. Sed cu quot erat. Stet mutat moderatius ad vel. Ne eum quod expetendis, odio eros nominavi sed et, eu suscipit atomorum sit. Facete maluisset urbanitas in eos, idque expetendis et vis, et quo everti quaestio maiestatis.
-
-At elit omnium vel, utamur ponderum definitionem cu duo. Ex eam quot meliore. Modus admodum antiopam duo in, et esse incorrupte percipitur nec, ei facete utroque torquatos his. Ea vel moderatius cotidieque conclusionemque, noluisse menandri consetetur id pri. -->
+<img align="left" src="/assets/images/troy-harvey.jpeg" width="220" height="220">
+[Troy Harvey](https://www.linkedin.com/in/troy-aaron-harvey/) is CEO and co-founder of [PassiveLogic](https://passivelogic.com), the creator of the first platform for generalized autonomy. As architect of the Quantum Digital Twin standard and Deep Physics AI engine, his empathic, systems-oriented approach to technology development is transforming the way we control systems and equipment. Optimizing buildings, cities, and other controlled systems is the clearest opportunity Troy sees to contribute to the world's most pressing climate challenges. 
