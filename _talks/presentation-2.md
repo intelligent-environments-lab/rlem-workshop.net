@@ -1,12 +1,14 @@
 ---
 name: Deep Reinforcement Learning-based SOH-aware Battery Management for DER Aggregation
 speakers:
-  - Paper Presentation Speaker
+  - Shotaro Nonaka
+  - Daichi Watari
+  - Ittetsu Taniguchi
+  - Takao Onoye
 categories:
   - presentation
-permalink: "/:collection/:categories/Deep Reinforcement Learning-based SOH-aware Battery Management for DER Aggregation"
+permalink: "/:collection/:categories/Presentation 2"
 ---
 
-<!-- Lorem ipsum dolor sit amet, mel tritani quaestio ne. Sed cu quot erat. Stet mutat moderatius ad vel. Ne eum quod expetendis, odio eros nominavi sed et, eu suscipit atomorum sit. Facete maluisset urbanitas in eos, idque expetendis et vis, et quo everti quaestio maiestatis.
-
-At elit omnium vel, utamur ponderum definitionem cu duo. Ex eam quot meliore. Modus admodum antiopam duo in, et esse incorrupte percipitur nec, ei facete utroque torquatos his. Ea vel moderatius cotidieque conclusionemque, noluisse menandri consetetur id pri. -->
+##### Abstract
+In smart energy systems, batteries, which assume an important role in filling the temporal gap between generation and consumption, are expected to be a potential distributed energy resource (DER). A resource aggregator (RA) has emerged to collect various DERs to extract demand-side flexibility, and various methods have been proposed based on reinforcement learning. Since battery degradation is unavoidable during utilization, battery management is required to minimize it. This paper proposes state-of-health (SOH)-aware battery management based on deep reinforcement learning. Our experimental results demonstrate an average battery lifetime improvement of 11.2%.
