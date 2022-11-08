@@ -2,4 +2,4 @@
 layout: program
 ---
 
-This is a tentative schedule and all times are with respect to the Eastern Standard Time (EST).
+The workshop will be held on November 11, 2022 and times are with respect to the Eastern Standard Time (EST).
