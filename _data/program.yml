@@ -1,7 +1,7 @@
 days:
-- name: Tuesday
-  abbr: Tu
-  date: 2022-11-08
+- name: Friday
+  abbr: Fri
+  date: 2022-11-11
   rooms:
   - name: Room
     talks:
