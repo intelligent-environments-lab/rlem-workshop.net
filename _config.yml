@@ -6,6 +6,9 @@ url: "https://www.rlem-workshop.net/" # the base hostname & protocol for your si
 
 theme: jekyll-theme-conference
 
+plugins:
+  - jemoji
+
 # Build settings
 markdown: kramdown
 sass:
