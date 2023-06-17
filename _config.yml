@@ -1,6 +1,6 @@
-title: RLEM Workshop 2022
+title: RLEM Workshop 2023
 preposition: at
-description: Third ACM SIGEnergy Workshop on Reinforcement Learning for Energy Management in Buildings & Cities (RLEM)
+description: Fourth ACM SIGEnergy Workshop on Reinforcement Learning for Energy Management in Buildings & Cities (RLEM)
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.rlem-workshop.net/" # the base hostname & protocol for your site, e.g. https://example.com
 
@@ -65,7 +65,7 @@ conference:
     logo:
       name: ACM BuildSys
       # img: ''
-      url: 'https://buildsys.acm.org/2022/'
+      url: 'https://buildsys.acm.org/2023/'
     links:
       - name: Dates
         relative_url: /dates/
@@ -83,9 +83,11 @@ conference:
         relative_url: /location/
       - name: Previous Editions
         menu:
-          - name: 2022 (current)
+          - name: 2023 (current)
             disabled: false
             relative_url: /
+          - name: 2022
+            relative_url: /editions/2022/
           - name: 2021
             relative_url: /editions/2021/
           - name: 2020

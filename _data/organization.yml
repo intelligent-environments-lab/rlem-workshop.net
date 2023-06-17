@@ -2,21 +2,16 @@
   chair: true
   member:
     - name: "Zoltan Nagy"
-    - name: "Jan Drgona"
 - role: "Technical Program Committee"
   chair: true
   member:
-    - name: "Kuldeep Kurte"
-    - name: "Matias Quintana"
-    - name: "Yaxin Bi"
+    - name: "June Young Park"
+    - name: "Kingsley Nweye"
 - role: "Web"
   chair: true
   member:
-    - name: "Kingsley Nweye"
+    - name: "TBD"
 - role: "Technical Program Committee"
   chair: false
   member:
-    - name: "Helia Zandi"
-    - name: "Himanshu Sharma"
-    - name: "June Young Park"
-    - name: "Kadir Amasyali"
+    - name: "TBD"
