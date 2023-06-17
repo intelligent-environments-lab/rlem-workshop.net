@@ -188,7 +188,7 @@ All times are in Greenwich Meridian Time (GMT).
 
 ## Organization
 ### General Chairs
-1. [Zoltan Nagy](https://www.caee.utexas.edu/people/faculty/faculty-directory/nagy) (University of Texas at Austin)
+1. [Zoltan Nagy](https://www.caee.utexas.edu/people/faculty/faculty-directory/nagy) (The University of Texas at Austin)
 
 ### Technical Program Committee Co-Chairs
 1. [Jan Drgona](https://www.pnnl.gov/people/jan-drgona) (Pacific Northwest National Laboratory)

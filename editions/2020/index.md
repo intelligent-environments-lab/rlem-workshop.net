@@ -195,7 +195,7 @@ All times are in Greenwich Meridian Time (GMT).
 
 ## Organization
 ### General Chairs
-1. [Zoltan Nagy](https://www.caee.utexas.edu/people/faculty/faculty-directory/nagy) (University of Texas at Austin)
+1. [Zoltan Nagy](https://www.caee.utexas.edu/people/faculty/faculty-directory/nagy) (The University of Texas at Austin)
 
 ### Technical Program Committee Co-Chairs
 1. [Mario Berges](https://inferlab.org/author/mario-berges/) (Carnegie Mellon University)
@@ -208,7 +208,7 @@ All times are in Greenwich Meridian Time (GMT).
 ### Technical Program Committee
 1. [Henning Lange](https://amath.washington.edu/people/henning-lange) (University of Washington)
 1. [Helia Zandi](https://www.ornl.gov/staff-profile/helia-zandi) (Oak Ridge National Laboratory)
-1. [Jose Vazquez-Canteli](http://nagy.caee.utexas.edu) (University of Texas at Austin)
+1. [Jose Vazquez-Canteli](http://nagy.caee.utexas.edu) (The University of Texas at Austin)
 1. [Zhe Wang](https://buildings.lbl.gov/people/zhe-walter-wang) (Lawrence Berkeley National Lab)
 1. [Duc Van Le]() (NTU Singapore)
 1. [Wan Du]() (University of California, Merced)

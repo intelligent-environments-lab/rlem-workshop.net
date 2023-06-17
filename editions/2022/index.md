@@ -167,7 +167,7 @@ All times are in Eastern Standard Time (EST).
 
 ## Organization
 ### General Chairs
-1. [Zoltan Nagy](https://www.caee.utexas.edu/people/faculty/faculty-directory/nagy) (University of Texas at Austin)
+1. [Zoltan Nagy](https://www.caee.utexas.edu/people/faculty/faculty-directory/nagy) (The University of Texas at Austin)
 2. [Jan Drgona](https://www.pnnl.gov/people/jan-drgona) (Pacific Northwest National Laboratory)
 
 ### Technical Program Committee Co-Chairs
@@ -176,7 +176,7 @@ All times are in Eastern Standard Time (EST).
 3. [Yaxin Bi](https://www.ulster.ac.uk/staff/y-bi) (Ulster University at Jordanstown)
 
 ### Web Chair
-1. [Kingsley Nweye](https://kingsleynweye.com) (University of Texas at Austin)
+1. [Kingsley Nweye](https://kingsleynweye.com) (The University of Texas at Austin)
 
 ### Technical Program Committee
 1. [Helia Zandi](https://www.ornl.gov/staff-profile/helia-zandi) (Oak Ridge National Laboratory)
