@@ -27,7 +27,7 @@ _{{ page.long_name }}_
 
 RLEM'21 will be held in conjunction with [ACM BuildSys'20](http://buildsys.acm.org/2020/). Following BuildSys's directive, the conference will be held virtually on {{ page.date }}.
 
-[Watch](https://youtu.be/OcNSEAujBeA) RLEM'20 recording!
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OcNSEAujBeA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Registration
 [Register now via BuildSys 2020](http://buildsys.acm.org/2020/).
@@ -44,7 +44,7 @@ Buildings account for 40% of the global energy consumption and 30% ofthe associa
 	
 The integration of these technologies must be done carefully to unlock their full potential. Artificial intelligence is regarded as a possible pathway to orchestrate these complexities of Smart Cities. In particular, (deep) reinforcement learning algorithms have seen an increased interest and have demonstrated human expert level performance in other domains, e.g., computer games. Research in the building and cities domain has been fragmented and with focus on different problems and using a variety of frameworks. The purpose of this Workshop is to build a growing community around this exciting topic, provide a platform for discussion for future research direction, and share common frameworks.
 
-##### Topics of Interest
+### Topics of Interest
 Topics of interest include, but are not limited to:
 - Challenges and Opportunities for RL in Building and Cities
 - Explorations of model vs model-free RL algorithms and hybrids
@@ -194,10 +194,10 @@ All times are in Greenwich Meridian Time (GMT).
 </table>
 
 ## Organization
-##### General Chairs
+### General Chairs
 1. [Zoltan Nagy](https://www.caee.utexas.edu/people/faculty/faculty-directory/nagy) (University of Texas at Austin)
 
-##### Technical Program Committee Co-Chairs
+### Technical Program Committee Co-Chairs
 1. [Mario Berges](https://inferlab.org/author/mario-berges/) (Carnegie Mellon University)
 2. [Bingqing Chen](https://inferlab.org/author/bingqing-chen/) (Carnegie Mellon University)
 2. [June Young Park](http://blog.uta.edu/parkjy/) (University of Texas at Arlington)
@@ -205,7 +205,7 @@ All times are in Greenwich Meridian Time (GMT).
 <!-- ##### Web Chair
 1. [Matias Quintana](https://matiasquintana.com/) (National University of Singapore) -->
 
-##### Technical Program Committee
+### Technical Program Committee
 1. [Henning Lange](https://amath.washington.edu/people/henning-lange) (University of Washington)
 1. [Helia Zandi](https://www.ornl.gov/staff-profile/helia-zandi) (Oak Ridge National Laboratory)
 1. [Jose Vazquez-Canteli](http://nagy.caee.utexas.edu) (University of Texas at Austin)
