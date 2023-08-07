@@ -1,10 +1,10 @@
 ---
-name: Keynote 1
+name: Keynote 2
 speakers:
-  - Keynote 1 Speaker
+  - Keynote 2 Speaker
 categories:
   - keynote
-permalink: "/:collection/:categories/Keynote 1"
+permalink: "/:collection/:categories/Keynote 2"
 ---
 
 <!-- ##### :tv: [Watch Live Recording!]() -->
