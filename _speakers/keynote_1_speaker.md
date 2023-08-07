@@ -7,7 +7,7 @@ permalink: "/:collection/:categories/Keynote 1 Speaker"
 
 <article>
     <img class="speaker-img" src="/assets/images/bharathan-balaji.jpeg">
-    <p><a href="https://www.linkedin.com/in/bharathanbalaji/" target="_blank">Bharathan Balaji</a> is an applied scientist in Amazon working on sustainability. He is interested in developing methods and systems that help make the world a better place: by reducing waste, through education, and with automation. He has worked on reinforcement learning, smart buildings and internet of things technologies. He has published 62 articles and has >3000 citations.</p>
+    <p><a href="https://www.linkedin.com/in/bharathanbalaji/" target="_blank">Bharathan Balaji</a> is a Senior Applied Scientist in Amazon working on sustainability. He is interested in developing methods and systems that help make the world a better place: by reducing waste, through education, and with automation. He has worked on reinforcement learning, smart buildings and internet of things technologies. He has published 62 articles and has >3000 citations.</p>
 
     <p>Since joining Amazon in 2018, he has contributed to the launch of SageMaker RL, a platform for RL workloads in AWS, and to the launch of AWS DeepRacer, a 1/18th scale car that drives autonomously using RL. He has helped 10+ AWS customers in supply chain, computing, industrial control, and many others. He collaborates with academic researchers in UC Berkeley, UCLA, and UC San Diego.</p>
 
