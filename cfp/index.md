@@ -27,7 +27,13 @@ title: Call for Papers
 </ul>
 
 <h2>Submission Instructions</h2>
-<p>Submitted papers must be unpublished and must not be currently under review for any other publication. Paper submissions must be at most 4 single-spaced US Letter (8.5"x11") pages, including figures, tables, and appendices (excluding references). All submissions must use the LaTeX (preferred) or Word styles found here <a href="https://www.acm.org/publications/proceedings-template">https://www.acm.org/publications/proceedings-template</a>. Authors must make a good faith effort to anonymize their submissions by (1) using the "anonymous" option for the class and (2) using "anonsuppress" section where appropriate. Papers that do not meet the size, formatting, and anonymization requirements will not be reviewed. Please note that ACM uses 9-pt fonts in all conference proceedings, and the style (both LaTeX and Word) implicitly define the font size to be 9-pt.</p>
+<p>We sollicit submissions in two categories: 1)<b>Original Research Papers</b> and 2) <b>Journal Track</b>. Please indicate the category when submitting the work. </p>
 
-
+<p><b>1) Original Research Papper:</b> Submitted papers must be unpublished and must not be currently under review for any other publication. Paper submissions must be at most 4 single-spaced US Letter (8.5"x11") pages, including figures, tables, and appendices (excluding references). All submissions must use the LaTeX (preferred) or Word styles found here <a href="https://www.acm.org/publications/proceedings-template">https://www.acm.org/publications/proceedings-template</a>. Authors must make a good faith effort to anonymize their submissions by (1) using the "anonymous" option for the class and (2) using "anonsuppress" section where appropriate. Papers that do not meet the size, formatting, and anonymization requirements will not be reviewed. Please note that ACM uses 9-pt fonts in all conference proceedings, and the style (both LaTeX and Word) implicitly define the font size to be 9-pt.</p>
 <h4><a href="https://rlem23.hotcrp.com/">Submission Link</a><h4>
+    
+<p><b>2) Journal track:</b> Authors of published journal articles relevant to the workshop audience are invited to present their work, expand their outrach, and engage in discussions with the community. The requirement for the journal track presentation is that it must have been <b>published within the last 12 months</b> prior to the conference (since Nov 2022). Please submit the title, abstract and the DOI link to your paper. Paper will be selected by the program committee based on how well they fit the workshop scope, the allocated time in the program and interest to the community. </p> 
+<h4><a href="https://rlem23.hotcrp.com/">Submission Link</a><h4>
+
+
+
