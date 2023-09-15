@@ -1,30 +1,78 @@
-- name: "Zoltan Nagy"
-  url: "https://www.caee.utexas.edu/people/faculty/faculty-directory/nagy"
-  affiliation: "The University of Texas at Austin"
-- name: "Jan Drgona"
-  url: "https://www.pnnl.gov/people/jan-drgona"
-  affiliation: "Pacific Northwest National Laboratory"
-- name: "Kuldeep Kurte"
-  url: "https://www.ornl.gov/staff-profile/kuldeep-r-kurte"
-  affiliation: "Oak Ridge National Laboratory"
-- name: "Matias Quintana"
-  url: "https://matiasquintana.com/"
-  affiliation: "National University of Singapore"
-- name: "Yaxin Bi"
-  url: "https://www.ulster.ac.uk/staff/y-bi"
-  affiliation: "Ulster University at Jordanstown"
-- name: "Kingsley Nweye"
-  url: "https://kingsleynweye.com"
-  affiliation: "The University of Texas at Austin"
-- name: "Helia Zandi"
-  url: "https://www.ornl.gov/staff-profile/helia-zandi"
-  affiliation: "Oak Ridge National Laboratory"
-- name: "Himanshu Sharma"
-  url: "https://energyenvironment.pnnl.gov/staff/staff_info.asp?staff_num=3801"
-  affiliation: "Pacific Northwest National Laboratory"
-- name: "June Young Park"
-  url: "https://www.uta.edu/academics/faculty/profile?username=parkjy"
-  affiliation: "The University of Texas at Arlington"
-- name: "Kadir Amasyali"
-  url: "https://www.ornl.gov/staff-profile/kadir-amasyali"
-  affiliation: "Oak Ridge National Laboratory"
+- name: Alex Vlachokostas
+  url: https://www.pnnl.gov/people/alex-vlachokostas
+  affiliation: Pacific Northwest National Laboratory
+- name: Alfonso Capozzoli
+  url: https://www.polito.it/en/staff?p=alfonso.capozzoli
+  affiliation: Politecnico di Torino
+- name: Anand Krishnan Prakash
+  url: https://eta.lbl.gov/people/anand-krishnan-prakash
+  affiliation: Lawrence Berkeley National Lab
+- name: Andrey Bernstein
+  url: https://www.nrel.gov/research/staff/andrey-bernstein.html
+  affiliation: National Renewable Energy Laboratory
+- name: Anjukan Kathirgamanathan
+  url: https://anjukan.github.io/about/
+  affiliation: GridBeyond
+- name: Draguna Vrabie
+  url: https://www.pnnl.gov/people/draguna-vrabie-phd
+  affiliation: Pacific Northwest National Lab
+- name: Giuseppe Pinto
+  url: https://www.linkedin.com/in/g-pinto/
+  affiliation: PassiveLogic
+- name: Gregor Henze
+  url: https://www.colorado.edu/ceae/gregor-p-henze
+  affiliation: University of Colorado Boulder
+- name: Han Li
+  url: https://eta.lbl.gov/people/han-li
+  affiliation: Lawrence Berkeley National Laboratory
+- name: Hari Prasanna Das
+  url: http://hariprasanna.com
+  affiliation: University of California, Berkeley
+- name: Helia Zandi
+  url: https://www.ornl.gov/staff-profile/helia-zandi
+  affiliation: Oak Ridge National Laboratory
+- name: Himanshu Sharma
+  url: https://energyenvironment.pnnl.gov/staff/staff_info.asp?staff_num=3801
+  affiliation: Pacific Northwest National Laboratory
+- name: Jan Drgona
+  url: https://www.pnnl.gov/people/jan-drgona
+  affiliation: Pacific Northwest National Laboratory
+- name: Javad Mohammadi
+  url: https://www.caee.utexas.edu/people/faculty/faculty-directory/mohammadi
+  affiliation: The University of Texas at Austin
+- name: Javier Arroyo
+  url: https://www.linkedin.com/in/javier-arroyo-bastida/
+  affiliation: KU Leuven
+- name: June Young Park
+  url: https://www.uta.edu/academics/faculty/profile?username=parkjy
+  affiliation: The University of Texas at Arlington
+- name: Kingsley Nweye
+  url: https://kingsleynweye.com
+  affiliation: The University of Texas at Austin
+- name: Kuldeep Kurte
+  url: https://www.linkedin.com/in/kuldeepkurte
+  affiliation: Jio Platforms Limited 
+- name: Matias Quintana
+  url: https://matiasquintana.com/
+  affiliation: Singapore-ETH Centre
+- name: Meiyi Li
+  url: https://www.linkedin.com/in/meiyi-li-power/
+  affiliation: The University of Texas at Austin
+- name: Ming Jin
+  url: https://ece.vt.edu/people/profile/jinming.html
+  affiliation: Virginia Tech
+- name: Wan Du
+  url: https://www.ucmerced.edu/content/wan-du
+  affiliation: University of California Merced
+- name: Xiangyu Zhang
+  url: https://www.nrel.gov/research/staff/xiangyu-zhang.html
+  affiliation: National Renewable Energy Lab
+- name: Zhe Wang
+  url: https://facultyprofiles.hkust.edu.hk/profiles.php?profile=zhe-wang-envrwangz
+  affiliation: The Hong Kong University of Science and Technology
+- name: Zhiang Zhang
+  url: https://research.nottingham.edu.cn/en/persons/zhiang-zhang
+  affiliation: University of Nottingham Ningbo China
+- name: Zoltan Nagy
+  url: https://www.caee.utexas.edu/people/faculty/faculty-directory/nagy
+  affiliation: The University of Texas at Austin
