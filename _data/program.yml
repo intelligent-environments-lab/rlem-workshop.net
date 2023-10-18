@@ -38,7 +38,7 @@ days:
       - name: 'CityLearn: A Tutorial on Reinforcement Learning Control for Grid-Interactive Efficient Buildings and Communities'
         time_start: '10:30'
         time_end: '12:30'
-      - name: Tutorial 2
+      - name: Introduction to the BOPTEST Framework for Testing and Benchmarking Advanced Controllers
         time_start: '10:30'
         time_end: '12:30'
       - name: Closing
