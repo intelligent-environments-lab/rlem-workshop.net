@@ -11,4 +11,4 @@ RLEM'23 will be held in conjunction with [ACM BuildSys'23](https://buildsys.acm.
 [Register now via BuildSys 2023.](https://buildsys.acm.org/2023/registration/)
 
 ## Keynote
-:mega: Pleased to announce [Bharathan Balaji](speakers/Keynote%201%20Speaker) (Amazon) and [John Sipple](speakers/Keynote%202%20Speaker) (Google) as keynote speakers at RLEM'23!
+:mega: Pleased to announce [Bharathan Balaji](speakers/Presentation%205%20Speaker%202) (Amazon) and [John Sipple](speakers/Presentation%202%20Speaker%202) (Google) as keynote speakers at RLEM'23!
