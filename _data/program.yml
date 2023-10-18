@@ -1,46 +1,46 @@
 days:
-- name: Friday
-  abbr: Fri
-  date: 2022-11-11
+- name: Sunday
+  abbr: Sun
+  date: 2023-11-12
   rooms:
   - name: Room
     talks:
-      # - name: Introduction
-      #   time_start: '08:00'
-      #   time_end: '08:10'
-      # - name: "Architecting a Path Toward Generalized Autonomy: Addressing the Biggest Opportunity in Decarbonization"
-      #   time_start: '08:10'
-      #   time_end: '08:55'
-      # - name: Break
-      #   time_start: '08:55'
-      #   time_end: '09:05'
-      # - name: Behavioural Cloning based RL Agents for District Energy Management
-      #   time_start: '09:05'
-      #   time_end: '09:20'
-      # - name: Deep Reinforcement Learning-based SOH-aware Battery Management for DER Aggregation
-      #   time_start: '09:20'
-      #   time_end: '09:35'
-      # - name: Deep Reinforcement Learning with Online Data Augmentation to Improve Sample Efficiency for Intelligent HVAC Control
-      #   time_start: '09:35'
-      #   time_end: '09:50'
-      # - name: Break
-      #   time_start: '09:50'
-      #   time_end: '10:00'
-      # - name: "Keynote: Opportunities and Challenges of Building Energy Management using Advanced Building Controls"
-      #   time_start: '10:00'
-      #   time_end: '10:45'
-      # - name: 'B2RL: An open-source dataset for building batch reinforcement learning'
-      #   time_start: '10:45'
-      #   time_end: '11:00'
-      # - name: 'ComfortLearn: Enabling agent-based occupant-centric building controls'
-      #   time_start: '11:00'
-      #   time_end: '11:15'
-      # - name: Break
-      #   time_start: '11:15'
-      #   time_end: '11:25'
-      # - name: Panel Discussion
-      #   time_start: '11:25'
-      #   time_end: '12:10'
-      # - name: Closing
-      #   time_start: '12:10'
-      #   time_end: '12:25'
+      - name: Introduction
+        time_start: '08:00'
+        time_end: '08:10'
+      - name: "Keynote 1"
+        time_start: '08:10'
+        time_end: '08:40'
+      # - name: "Economizer Optimization with Reinforcement Learning: An Industry Perspective"
+      #   time_start: '09:40'
+      #   time_end: '09:55'
+      - name: Real-World Implementation of Reinforcement Learning Based Energy Coordination for a Cluster of Households
+        time_start: '08:40'
+        time_end: '08:55'
+      - name: Smart Home Energy Cost Minimisation Using Energy Trading with Deep Reinforcement Learning
+        time_start: '08:55'
+        time_end: '09:10'
+      - name: Break
+        time_start: '09:10'
+        time_end: '09:20'
+      - name: "Keynote 2"
+        time_start: '09:20'
+        time_end: '09:50'
+      - name: A Lightweight Calibrated Simulation Enabling Efficient Offline Learning for Optimal Control of Real Buildings
+        time_start: '09:50'
+        time_end: '10:05'
+      - name: 'TBMEnv - An Environment to Assess the Accuracy of Thermal Building Models under Realistic Conditions'
+        time_start: '10:05'
+        time_end: '10:20'
+      - name: Break
+        time_start: '10:20'
+        time_end: '10:30'
+      - name: Tutorial 1
+        time_start: '10:30'
+        time_end: '12:30'
+      - name: Tutorial 2
+        time_start: '10:30'
+        time_end: '12:30'
+      - name: Closing
+        time_start: '12:30'
+        time_end: '12:35'
