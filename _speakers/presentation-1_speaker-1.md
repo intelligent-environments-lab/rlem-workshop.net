@@ -1,7 +1,7 @@
 ---
-name: Presentation 1 Speaker 1
-first_name: Presentation 1
-last_name: Speaker 1
-email:
-permalink: "/:collection/:categories/Presentation 1 Speaker 1"
+name: Gargya Gokhale
+first_name: Gargya
+last_name: Gokhale
+email: gargya.gokhale@ugent.be
+permalink: /:collection/:categories/Presentation 1 Speaker 1
 ---

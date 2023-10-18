@@ -1,13 +1,17 @@
 ---
-name: Presentation 1
+name: Real-World Implementation of Reinforcement Learning Based Energy Coordination
+  for a Cluster of Households
 speakers:
-  - Presentation 1 Speaker 1
+- Gargya Gokhale
+- Niels Tiben
+- Marie-Sophie Verwee
+- Manu Lahariya
+- Bert Claessens
+- Chris Develder
 categories:
-  - presentation
-permalink: "/:collection/:categories/Presentation 1"
+- presentation
+permalink: /:collection/:categories/Presentation 1
 ---
 
-##### Abstract
+# Abstract
 TBD
-
-##### :tv: [Watch Live Recording!]()

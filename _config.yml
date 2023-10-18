@@ -160,10 +160,12 @@ conference:
     main_categories:
       - name: presentation
         color: primary
-      - name: discussion
-        color: secondary
+      # - name: discussion
+      #   color: secondary
       - name: keynote
         color: warning
+      - name: tutorial
+        color: secondary
       - name: other
         color: info
 

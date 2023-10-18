@@ -1,7 +1,7 @@
 ---
 name: Keynote 2
 speakers:
-  - Keynote 2 Speaker
+  - John Sipple
 categories:
   - keynote
 permalink: "/:collection/:categories/Keynote 2"

@@ -1,7 +1,7 @@
 ---
 name: Keynote 1
 speakers:
-  - Keynote 1 Speaker
+  - Bharathan Balaji
 categories:
   - keynote
 permalink: "/:collection/:categories/Keynote 1"

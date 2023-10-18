@@ -1,10 +1,10 @@
 ---
 name: Introduction
 speakers:
-  - Introduction Speaker
+  - Zoltan Nagy
 categories:
   - other
 permalink: "/:collection/:categories/Introduction"
 ---
 
-##### :tv: [Watch Live Recording!]()
+<!-- ##### :tv: [Watch Live Recording!]() -->

@@ -1,6 +1,6 @@
 ---
-name: Introduction Speaker
-first_name: Introduction
-last_name: Speaker
+name: Zoltan Nagy
+first_name: Zoltan
+last_name: Nagy
 permalink: "/:collection/:categories/Introduction Speaker"
 ---
