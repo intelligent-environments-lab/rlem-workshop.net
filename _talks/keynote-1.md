@@ -1,5 +1,5 @@
 ---
-name: Keynote 1
+name: Deploying Reinforcement Learning for Energy Management at Scale
 speakers:
   - Bharathan Balaji
 categories:
