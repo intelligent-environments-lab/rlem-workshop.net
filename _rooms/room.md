@@ -2,10 +2,10 @@
 name: Room
 ---
 
-### In-person
+<!-- ### In-person -->
 <!-- Room for in-person workshop participants is __Mariner__. -->
-TBD.
+<!-- TBD. -->
 
-### Virtual
+<!-- ### Virtual -->
 <!-- Zoom link for virtual workshop participants will be communicated soon. -->
-TBD.
+<!-- TBD. -->
