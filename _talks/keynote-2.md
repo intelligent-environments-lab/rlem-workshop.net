@@ -1,5 +1,5 @@
 ---
-name: Keynote 2
+name: Is the Agent better than the Baseline? Google's Experiment Design for deploying Optimal Control on Smart Buildings
 speakers:
   - John Sipple
 categories:

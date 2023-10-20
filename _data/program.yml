@@ -23,7 +23,7 @@ days:
       - name: Break
         time_start: '09:10'
         time_end: '09:20'
-      - name: "Keynote 2"
+      - name: Is the Agent better than the Baseline? Google's Experiment Design for deploying Optimal Control on Smart Buildings
         time_start: '09:20'
         time_end: '09:50'
       - name: A Lightweight Calibrated Simulation Enabling Efficient Offline Learning for Optimal Control of Real Buildings
