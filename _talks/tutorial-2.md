@@ -9,7 +9,6 @@ categories:
 permalink: /:collection/:categories/Tutorial 2
 ---
 
-<!-- <article> -->
 <h2>Description</h2>
 <p>The Building Optimization Testing (BOPTEST) framework is used to evaluate the performance of building Heating Ventilation and Air Conditioning (HVAC) control algorithms by enabling co-simulation between detailed building models and external controllers written by users in separate software. The framework provides a standard simulation environment and is organized into specific building test cases.  The detailed building models are implemented in Modelica using libraries that extend the IBPSA Modelica Library, including the Modelica Buildings Library and the IDEAS Library,  and packaged as Functional Mockup Units for simulation within the standardized simulation environment.  An API for this environment allows users to advance the simulation of the detailed building model with input from their control algorithms, receive data back from the detailed building model, and report key performance indicators, such as total energy use, operating cost, and thermal discomfort, after co-simulation is complete. Moreover, the BOPTEST-Gym interface enables the implementation of Reinforcement Learning (RL) algorithms in BOPTEST emulators out of the box.<p>
 
@@ -27,7 +26,7 @@ permalink: /:collection/:categories/Tutorial 2
 
 <ol>
     <li>Presentation: BOPTEST motivation, goals, and approach <strong>(15m)</strong></li>
-    <li>Exercise 1: Introductory hands-on tutorial on the software <strong>(1h25m)</strong></li>
+    <li>Exercise 1: Introductory hands-on tutorial on the software <strong>(1h15m)</strong></li>
         <ol>
             <li>Introduce the Google Colab environment</li>
             <li>Selecting a test case</li>
@@ -36,14 +35,15 @@ permalink: /:collection/:categories/Tutorial 2
             <li>Add forecast to your feedback controller</li>
             <li>Reporting results</li>
         </ol>
+    <li>Coffee break <strong>(10m)</strong></li>
     <li>Presentation 2: An example MPC controller in BOPTEST <strong>(10m)</strong></li>
-    <li>Exercise 2: Timed common exercise <strong>(1h20m)</strong></li>
+    <li>Exercise 2: Learning BOPTEST-Gym, the Gym interface of BOPTEST <strong>(20m)</strong></li>
+    <li>Exercise 3: Timed common exercise <strong>(1h10m)</strong></li>
         <ol>
             <li>Introduce exercise goals: optimize the controller from Exercise 1</li>
             <li>Complete exercise, submit results, produce presentation reports</li>
             <li>Volunteer participants present findings and group discussion</li>
         </ol>
-    <li>Exercise 3: Learning BOPTEST-Gym, the Gym interface of BOPTEST <strong>(20m)</strong></li>
     <li>Wrap-Up and follow-up explanation <strong>(10m)</strong></li>
 </ol>
 
@@ -70,5 +70,3 @@ permalink: /:collection/:categories/Tutorial 2
     <li><a href="https://github.com/ibpsa/project1-boptest" target="_blank">BOPTEST GitHub</a></li>
     <li><a href="https://github.com/ibpsa/project1-boptest-gym" target="_blank">BOPTEST-Gym GitHub</a></li>
 </ul>
-
-<!-- </article> -->
