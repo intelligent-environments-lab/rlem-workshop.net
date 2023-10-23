@@ -41,6 +41,6 @@ days:
       - name: Introduction to the BOPTEST Framework for Testing and Benchmarking Advanced Controllers
         time_start: '10:30'
         time_end: '14:00'
-      - name: Closing
-        time_start: '14:00'
-        time_end: '14:05'
+      # - name: Closing
+      #   time_start: '14:00'
+      #   time_end: '14:05'
