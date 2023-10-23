@@ -8,7 +8,7 @@ permalink: /:collection/:categories/Tutorial 1
 ---
 
 <h2>Description</h2>
-<p>The <a href="https://colab.research.google.com/github/intelligent-environments-lab/CityLearn/blob/master/examples/citylearn_ccai_tutorial.ipynb" target="_blank">CityLearn tutorial at RLEM'23</a> will help participants get acquainted with the <a href="https://www.citylearn.net" target="_blank">CityLearn</a> OpenAI Gym environment, developed for easy implementation and benchmarking of control algorithms, e.g., rule-based control, model predictive control or deep reinforcement learning control in the demand response, building energy and grid-interactive community domain. By the end of the tutorial, participants will learn how to design their own simple or advanced control algorithms to provide energy flexibility, and acquire familiarity with the CityLearn environment for extended use in personal projects.</p>
+<p>The <a href="https://colab.research.google.com/github/intelligent-environments-lab/CityLearn/blob/master/examples/citylearn_rlem23_tutorial.ipynb" target="_blank">CityLearn tutorial at RLEM'23</a> will help participants get acquainted with the <a href="https://www.citylearn.net" target="_blank">CityLearn</a> OpenAI Gym environment, developed for easy implementation and benchmarking of control algorithms, e.g., rule-based control, model predictive control or deep reinforcement learning control in the demand response, building energy and grid-interactive community domain. By the end of the tutorial, participants will learn how to design their own simple or advanced control algorithms to provide energy flexibility, and acquire familiarity with the CityLearn environment for extended use in personal projects.</p>
 
 <h2>Learning Outcomes</h2>
 <p>The primary learning outcome for participants is to gain familiarity with CityLearn environment, its application programming interface (API) and dataset offerings for extended use in academic research or personal projects. Other secondary outcomes are to:</p>
@@ -108,7 +108,7 @@ permalink: /:collection/:categories/Tutorial 1
 
 <h2>References</h2>
 <ul>
-    <li><a href="https://colab.research.google.com/github/intelligent-environments-lab/CityLearn/blob/master/examples/citylearn_ccai_tutorial.ipynb" target="_blank">CityLearn Tutorial Notebook</a></li>
+    <li><a href="https://colab.research.google.com/github/intelligent-environments-lab/CityLearn/blob/master/examples/citylearn_rlem23_tutorial.ipynb" target="_blank">CityLearn Tutorial Notebook</a></li>
     <li><a href="https://github.com/intelligent-environments-lab/CityLearn" target="_blank">CityLearn GitHub</a></li>
     <li><a href="https://www.citylearn.net" target="_blank">CityLearn Documentation</a></li>
 </ul>
