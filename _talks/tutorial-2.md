@@ -26,7 +26,7 @@ permalink: /:collection/:categories/Tutorial 2
 
 <ol>
     <li>Presentation: BOPTEST motivation, goals, and approach <strong>(15m)</strong></li>
-    <li>Exercise 1: Introductory hands-on <a href="https://colab.research.google.com/github/JavierArroyoBastida/project1-boptest/blob/issue585_rlem2023/docs/workshops/RlemWorkshop_20231112/Introduction_to_the_BOPTEST_framework.ipynb" target="_blank">tutorial</a></li> on the software <strong>(1h15m)</strong></li>
+    <li>Exercise 1: Introductory hands-on <a href="https://colab.research.google.com/github/JavierArroyoBastida/project1-boptest/blob/issue585_rlem2023/docs/workshops/RlemWorkshop_20231112/Introduction_to_the_BOPTEST_framework.ipynb" target="_blank">tutorial</a> on the software <strong>(1h15m)</strong></li>
         <ol>
             <li>Introduce the Google Colab environment</li>
             <li>Selecting a test case</li>
