@@ -1,0 +1,118 @@
+{
+    "days": [
+        {
+            "name": "Sunday",
+            "hash": "sun",
+            "date": "2023-11-12"
+        }
+    ],
+
+    "rooms": {
+    },
+
+    "speakers": {
+        "Zoltan Nagy" : {
+            "name": "Zoltan Nagy",
+            "href": "/speakers/Introduction Speaker"
+        },
+        "Gargya Gokhale" : {
+            "name": "Gargya Gokhale",
+            "href": "/speakers/Presentation 1 Speaker 1"
+        },
+        "Niels Tiben" : {
+            "name": "Niels Tiben",
+            "href": "/speakers/Presentation 1 Speaker 2"
+        },
+        "Marie-Sophie Verwee" : {
+            "name": "Marie-Sophie Verwee",
+            "href": "/speakers/Presentation 1 Speaker 3"
+        },
+        "Manu Lahariya" : {
+            "name": "Manu Lahariya",
+            "href": "/speakers/Presentation 1 Speaker 4"
+        },
+        "Bert Claessens" : {
+            "name": "Bert Claessens",
+            "href": "/speakers/Presentation 1 Speaker 5"
+        },
+        "Chris Develder" : {
+            "name": "Chris Develder",
+            "href": "/speakers/Presentation 1 Speaker 6"
+        },
+        "Judah Goldfeder" : {
+            "name": "Judah Goldfeder",
+            "href": "/speakers/Presentation 2 Speaker 1"
+        },
+        "John Sipple" : {
+            "name": "John Sipple",
+            "href": "/speakers/Presentation 2 Speaker 2"
+        },
+        "David Wölfle" : {
+            "name": "David Wölfle",
+            "href": "/speakers/Presentation 3 Speaker 1"
+        },
+        "Samed Voßberg" : {
+            "name": "Samed Voßberg",
+            "href": "/speakers/Presentation 3 Speaker 2"
+        },
+        "Hartmut Schmeck" : {
+            "name": "Hartmut Schmeck",
+            "href": "/speakers/Presentation 3 Speaker 3"
+        },
+        "Matic Pokorn" : {
+            "name": "Matic Pokorn",
+            "href": "/speakers/Presentation 4 Speaker 1"
+        },
+        "Mihael Mohorčič" : {
+            "name": "Mihael Mohorčič",
+            "href": "/speakers/Presentation 4 Speaker 2"
+        },
+        "Andrej Čampa" : {
+            "name": "Andrej Čampa",
+            "href": "/speakers/Presentation 4 Speaker 3"
+        },
+        "Jernej Hribar" : {
+            "name": "Jernej Hribar",
+            "href": "/speakers/Presentation 4 Speaker 4"
+        },
+        "Jiaron Cui" : {
+            "name": "Jiaron Cui",
+            "href": "/speakers/Presentation 5 Speaker 1"
+        },
+        "Bharathan Balaji" : {
+            "name": "Bharathan Balaji",
+            "href": "/speakers/Presentation 5 Speaker 2"
+        },
+        "Jake Chen" : {
+            "name": "Jake Chen",
+            "href": "/speakers/Presentation 5 Speaker 3"
+        },
+        "Charles Prosper" : {
+            "name": "Charles Prosper",
+            "href": "/speakers/Presentation 5 Speaker 4"
+        },
+        "Wei Yih Yap" : {
+            "name": "Wei Yih Yap",
+            "href": "/speakers/Presentation 5 Speaker 5"
+        },
+        "Kingsley Nweye" : {
+            "name": "Kingsley Nweye",
+            "href": "/speakers/Tutorial 1 Speaker 1"
+        },
+        "Javier Arroyo" : {
+            "name": "Javier Arroyo",
+            "href": "/speakers/Tutorial 2 Speaker 1"
+        },
+        "David Blum" : {
+            "name": "David Blum",
+            "href": "/speakers/Tutorial 2 Speaker 2"
+        },
+        "Kyle Benne" : {
+            "name": "Kyle Benne",
+            "href": "/speakers/Tutorial 2 Speaker 3"
+        }
+    },
+
+    "talks": {
+    }
+}

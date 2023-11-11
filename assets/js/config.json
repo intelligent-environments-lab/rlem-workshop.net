@@ -1,0 +1,44 @@
+{
+
+    "live": {
+        "time": {
+            "start": 1699776000,
+            "end": 1699797600
+        },
+
+        "streaming": {
+            "enable": true,
+            "pause": 60,
+            "prepend": 5,
+            "extend": 5
+        },
+
+        "demo": {
+            "enable": false,
+            "duration": 300,
+            "pause": 10
+        }
+    },
+
+    "lang": {
+        "live": {
+            "pre_stream": "Live stream has not started yet.",
+            "post_stream": "Live stream has ended.",
+            "pause_stream": "Live stream is currently paused.",
+            "time": {
+                "soon": "soon",
+                "now": "now",
+                "in": "in ",
+                "since": "since ",
+                "weeks": "weeks",
+                "week": "week",
+                "days": "days",
+                "day": "day",
+                "hours": "hours",
+                "hour": "hour",
+                "minutes": "minutes",
+                "minute": "minute"
+            }
+        }
+    }
+}

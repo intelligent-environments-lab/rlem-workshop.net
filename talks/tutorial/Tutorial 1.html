@@ -1,0 +1,366 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <title>CityLearn: A Tutorial on Reinforcement Learning Control for Grid-Interactive Efficient Buildings and Communities - RLEM Workshop 2023</title>
+  <meta name="description" content="Talk by Kingsley Nweye at RLEM Workshop 2023" />
+
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:image" content="https://www.rlem-workshop.net//assets/images/twitter_preview.png" />
+  <meta name="twitter:title" content="CityLearn: A Tutorial on Reinforcement Learning Control for Grid-Interactive Efficient Buildings and Communities" />
+  <meta name="twitter:description" content="Talk by Kingsley Nweye at RLEM Workshop 2023" />
+
+  <meta property="og:site_name" content="RLEM Workshop 2023" />
+  <meta property="og:image" content="https://www.rlem-workshop.net//assets/images/facebook_preview.png" />
+  <meta property="og:url" content="https://www.rlem-workshop.net//talks/tutorial/Tutorial 1" />
+  <meta property="og:title" content="CityLearn: A Tutorial on Reinforcement Learning Control for Grid-Interactive Efficient Buildings and Communities" />
+  <meta property="og:description" content="Talk by Kingsley Nweye at RLEM Workshop 2023" />
+  <meta property="og:type" content="website" />
+
+  <link rel="stylesheet" href="/assets/css/main.css?t=1699738273" />
+
+  <link rel="preload" as="font" href="/assets/webfonts/fa-regular-400.woff2" type="font/woff2" crossorigin="anonymous" />
+  <link rel="preload" as="font" href="/assets/webfonts/fa-solid-900.woff2" type="font/woff2" crossorigin="anonymous" />
+  <link rel="prefetch" as="image" href="/assets/icons/live.svg" type="image/svg+xml" crossorigin="anonymous" />
+  <link rel="prefetch" as="fetch" href="/assets/js/data.json" type="application/json" crossorigin="anonymous" />
+</head>
+
+<body class="pb-4">
+  <header>
+    <!-- navigation bar (web only): --><nav class="navbar navbar-expand-md navbar-light bg-light mb-3">
+  <div class="container">
+
+    <a class="navbar-brand" href="/">RLEM Workshop 2023</a>
+
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav mr-auto">
+            <li class="nav-item "><a class="nav-link" href="/dates/" title="Dates">
+                Dates
+              </a>
+            </li>
+            <li class="nav-item "><a class="nav-link" href="/cfp/" title="CfP">
+                CfP
+              </a>
+            </li>
+            <li class="nav-item "><a class="nav-link" href="/program/" title="Program">
+                Program
+              </a>
+            </li>
+            <li class="nav-item active"><a class="nav-link" href="/talks/" title="Talks">
+                Talks
+              </a>
+            </li>
+            <li class="nav-item "><a class="nav-link" href="/speakers/" title="Speakers">
+                Speakers
+              </a>
+            </li>
+            <li class="nav-item "><a class="nav-link" href="/organization/" title="Organization">
+                Organization
+              </a>
+            </li>
+            <li class="nav-item "><a class="nav-link" href="/location/" title="Location">
+                Location
+              </a>
+            </li>
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" href="#" id="navbar-dropdown7" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                Previous Editions
+              </a>
+              <div class="dropdown-menu" aria-labelledby="navbar-dropdown7">
+                  <a class="dropdown-item" href="/" title="2023 (current)">
+                    2023 (current)
+                  </a>
+                  <a class="dropdown-item" href="/editions/2022/" title="2022">
+                    2022
+                  </a>
+                  <a class="dropdown-item" href="/editions/2021/" title="2021">
+                    2021
+                  </a>
+                  <a class="dropdown-item" href="/editions/2020/" title="2020">
+                    2020
+                  </a>
+              </div>
+            </li>
+      </ul>
+    </div>
+      <div class="navbar-brand navbar-logo mr-0 w-25 text-right overflow-hidden">
+        <a href="https://buildsys.acm.org/2023/">
+            ACM BuildSys
+        </a>
+      </div>
+
+  </div>
+</nav><!-- site title (print only): -->
+      <div class="container d-none d-print-block mt-4 mb-4">
+        <h1 class="display-4">
+          RLEM Workshop 2023
+        </h1>
+      </div></header>
+  <main class="container"><html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+    body{
+        background-image: url('/assets/images/background_2023.jpeg');
+        background-repeat: no-repeat;
+        background-attachment: fixed;  
+        background-size: cover; 
+    }
+    .jumbotron{
+        background:rgba(204, 204, 204, 0.95);
+    }
+    .speaker-img{
+        width: 145px;
+        margin-right: 5px;
+        float: left;
+        align-content: left;
+    }
+    </style>
+</head>
+</html>
+      <div if class="jumbotron"><div class="d-flex flex-lg-row flex-column container-fluid mb-2 p-0">
+    <div class="h6 mt-2 mb-0 mr-1 pr-1 pb-1">
+      
+      <span class="p-1 pl-2 pr-2 border-soft-secondary bg-soft-secondary font-weight-normal">
+        tutorial
+      </span>
+    </div>
+
+    
+  </div>
+
+  <h1 class="font-weight-light">CityLearn: A Tutorial on Reinforcement Learning Control for Grid-Interactive Efficient Buildings and Communities</h1>
+
+  <p class="mb-3 font-weight-light">
+    <a class="text-reset" href="/speakers/Tutorial 1 Speaker 1">Kingsley Nweye</a>
+  </p>
+
+  <div class="mb-3 p-0">
+    
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <span class="live-hide" data-start="1699785000" data-end="1699792200"><span class="d-none d-sm-inline">at</span> <a href="/program" class="badge badge-light font-weight-normal text-left ">
+  <i class="far fa-clock"></i>&nbsp;10:30</a></span><a title="" data-toggle="modal" data-target="#stream-modal" data-room="Room" href="#" class="live-show live-button badge badge-dark font-weight-normal text-center d-none " data-start="1699785000" data-end="1699792200">
+    <object data="/assets/icons/live.svg" type="image/svg+xml">!</object>
+    Live</a><span class="d-none d-sm-inline ml-1">in</span> <a href="/rooms/room/" class="badge badge-light font-weight-normal"><i class="far fa-square"></i>&nbsp;Room</a><span class="d-none d-sm-inline ml-1">for</span> <span class="badge badge-light font-weight-normal text-left">
+  <i class="fas fa-stopwatch"></i>&nbsp;120min
+</span>
+
+        
+        
+      
+    
+  </div>
+
+  <h2>Description</h2>
+<p>The <a href="https://colab.research.google.com/github/intelligent-environments-lab/CityLearn/blob/master/examples/citylearn_rlem23_tutorial.ipynb" target="_blank">CityLearn tutorial at RLEM'23</a> will help participants get acquainted with the <a href="https://www.citylearn.net" target="_blank">CityLearn</a> OpenAI Gym environment, developed for easy implementation and benchmarking of control algorithms, e.g., rule-based control, model predictive control or deep reinforcement learning control in the demand response, building energy and grid-interactive community domain. By the end of the tutorial, participants will learn how to design their own simple or advanced control algorithms to provide energy flexibility, and acquire familiarity with the CityLearn environment for extended use in personal projects.</p>
+
+<h2>Learning Outcomes</h2>
+<p>The primary learning outcome for participants is to gain familiarity with CityLearn environment, its application programming interface (API) and dataset offerings for extended use in academic research or personal projects. Other secondary outcomes are to:</p>
+
+<ol>
+    <li>Understand how electrification, distributed energy resources e.g. batteries, photovoltaic (PV) systems and smart controls provide a promising pathway to decarbonization and energy flexibility.</li>
+    <li>Learn how to design and optimize their own rule-based control (RBC) agent for battery management using readily available knowledge of a building's energy use.</li>
+    <li>Identify the challenges surrounding the generalizability of an RBC agent and how reinforcement learning (RL) can mitigate these challenges.</li>
+    <li>Train their own RL Tabular Q-Learning algorithm.</li>
+    <li>Evaluate the performance of a standard model-free deep RL algorithm in optimizing key performance indicators (KPIs) that are targeted at quantifying energy flexibility, environmental and economic costs.</li>
+    <li>Learn the effect of different control algorithms and their parameters in improving these KPIs.</li>
+    <li>Make submission to <a href="https://www.aicrowd.com/challenges/neurips-2023-citylearn-challenge" target="_blank">The CityLearn Challenge 2023</a>.</li>
+</ol>
+
+<h2>Target Audience</h2>
+<p>The target audience for this tutorial includes the following:</p>
+
+<ul>
+    <li>Academic, private and commercial researchers or professionals that are interested in sustainable artificial intelligence (AI)-related pathways to electrification and building decarbonization.</li>
+    <li>I enthusiasts with at least beginner level of expertise in programming or data science whom may have or pick interest in solving control problems or are interested in learning about a new reinforcement learning (RL) environment that deviates from popular simpler problems e.g. the Atari, MuJoCo and Box2D Gym environments, to real-world problems with urgency like climate change mitigation and decarbonization of the electric grid infrastructure and building end-uses.</li>
+</ul>
+
+<h2>Prerequisites</h2>
+
+<p>The CityLearn tutorial has a fairly low entry level and participants do not need to have prior experience in reinforcement learning (RL) nor use of a Gym environment. However, participants need to have at least, beginner knowledge in Python or other similar high-level scripting language. Also, participants should have a computer that is able to launch a Google Colab notebook in the browser or a Jupyter notebook locally.</p>
+
+<h2>Program</h2>
+<p>The workshop is divided into the following parts (note that durations are flexible):</p>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-fymr{border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+.tg .tg-hohi{color:#C9D1D9;text-align:right;vertical-align:top}
+.tg .tg-hd9x{color:#C9D1D9;text-align:left;vertical-align:top}
+</style>
+
+<table class="tg">
+    <thead>
+        <tr>
+            <th class="tg-fymr">Duration</th>
+            <th class="tg-fymr">Description</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td class="tg-0pky">5m</td>
+            <td class="tg-0pky">Overview, Learning Outcomes, Climate Impact, Target Audience and Prerequisites</td>
+        </tr>
+        <tr>
+            <td class="tg-0pky">20m</td>
+            <td class="tg-0pky">Background on Grid-Interactive Efficient Buildings, Energy Flexibility and CityLearn</td>
+        </tr>
+        <tr>
+            <td class="tg-0pky">15m</td>
+            <td class="tg-0pky">Overview of Hands-On Experiments, Setting up Development Environment, Dataset Description and Key Performance Indicators for Evaluation</td>
+        </tr>
+        <tr>
+            <td class="tg-0pky">5m</td>
+            <td class="tg-0pky">Coffee Break</td>
+        </tr>
+        <tr>
+            <td class="tg-0pky">10m</td>
+            <td class="tg-0pky">Experiment 1: Build your Custom Rule-Based Controller</td>
+        </tr>
+        <tr>
+            <td class="tg-0pky">10m</td>
+            <td class="tg-0pky">Experiment 2: An Introduction to Tabular Q-Learning Algorithm as an Adaptive Controller</td>
+        </tr>
+        <tr>
+            <td class="tg-0pky">10m</td>
+            <td class="tg-0pky">Experiment 3.1: Optimize a Soft-Actor Critic Reinforcement Learning Controller</td>
+        </tr>
+        <tr>
+            <td class="tg-0pky">15m</td>
+            <td class="tg-0pky">Experiment 3.2: Tune your Soft-Actor Critic Agent</td>
+        </tr>
+        <tr>
+            <td class="tg-0pky">5m</td>
+            <td class="tg-0pky">Coffee Break</td>
+        </tr>
+        <tr>
+            <td class="tg-0pky">20m</td>
+            <td class="tg-0pky">Make Submission to The CityLearn Challenge 2023 Control and Forecast Tracks</td>
+        </tr>
+        <tr>
+            <td class="tg-0pky">5m</td>
+            <td class="tg-0pky">Next Steps and Concluding Remarks</td>
+        </tr>
+    </tbody>
+</table>
+
+<h2>References</h2>
+<ul>
+    <li><a href="https://colab.research.google.com/github/intelligent-environments-lab/CityLearn/blob/master/examples/citylearn_rlem23_tutorial.ipynb" target="_blank">CityLearn Tutorial Notebook</a></li>
+    <li><a href="https://github.com/intelligent-environments-lab/CityLearn" target="_blank">CityLearn GitHub</a></li>
+    <li><a href="https://www.citylearn.net" target="_blank">CityLearn Documentation</a></li>
+</ul>
+
+
+  
+
+  
+
+  
+
+  <p class="d-print-none mt-5">
+    <a href="/talks" class="btn btn-light">
+      <i class="fas fa-bullhorn"></i>&nbsp;Overview
+    </a>
+
+    <a href="/program" class="btn btn-light">
+      <i class="far fa-calendar-alt"></i>&nbsp;Program
+    </a>
+  </p>
+  </main>
+  <footer class="container"></footer><div class="modal fade" id="link-modal" tabindex="-1" role="dialog" aria-labelledby="link-modal-label" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered modal-lg" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <div class="modal-title" id="link-modal-label">
+          <h3 class="mb-2 font-weight-light"></h3>
+          <h5 class="mb-0 font-weight-light"></h5>
+        </div>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body embed-responsive embed-responsive-16by9">
+        <iframe class="embed-responsive-item" src="" allowfullscreen></iframe>
+      </div>
+      <div class="modal-footer justify-content-start">
+        <p></p>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="modal fade" id="stream-modal" tabindex="-1" role="dialog" aria-labelledby="link-modal-label" aria-hidden="true">
+  <div class="modal-dialog modal-lg" role="document">
+    <div class="modal-content">
+
+      <div class="modal-header">
+        <h5 class="modal-title">
+          Live Stream
+        </h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+
+      <div class="modal-body embed-responsive embed-responsive-16by9">
+        <iframe class="embed-responsive-item" src="" frameborder="none" allowfullscreen="allowfullscreen" seamless="seamless" scrolling="no"></iframe>
+        <div id="stream-placeholder" class="embed-responsive-item d-none justify-content-center align-items-center">
+          <div></div>
+        </div>
+      </div>
+
+      <div class="modal-footer flex-column justify-content-start d-none live-past" id="stream-info" data-time="">
+        <div class="my-0 small align-self-start live-time" id="stream-info-time" data-time=""></div>
+        <div class="pl-2 align-self-start" id="stream-info-color">
+          <p class="mb-0">
+            <a class="text-reset" href="#" id="stream-info-talk"></a>
+          </p>
+          <p class="font-weight-light mb-0" id="stream-info-speakers"></p>
+        </div>
+        <div class="align-self-center m-0 mt-1" id="stream-info-links"></div>
+      </div>
+
+      <div class="modal-footer justify-content-around">
+        <a id="stream-button1" href="#" class="btn btn-outline-primary d-none d-sm-inline disabled" role="button" data-room="Room">
+            Room
+          </a>
+        <div class="form-group w-100 d-block d-sm-none">
+          <select class="form-control" id="stream-select">
+            <option value="1" disabled>Room</option>
+          </select>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</div>
+<!-- Append build time to avoid caching of live program embedded in JavaScript file -->
+  <script src="/assets/js/main.js?t=1699738273"></script>
+
+</body>
+</html>

@@ -1,0 +1,21 @@
+paper,title,first,last,email,affiliation,country,iscontact
+22,Real-World Implementation of Reinforcement Learning Based Energy Coordination for a Cluster of Households,Gargya,Gokhale,gargya.gokhale@ugent.be,"IDLab, Ghent University -imec",Belgium,yes
+22,Real-World Implementation of Reinforcement Learning Based Energy Coordination for a Cluster of Households,Niels,Tiben,,"IDLab, Ghent University -imec"
+22,Real-World Implementation of Reinforcement Learning Based Energy Coordination for a Cluster of Households,Marie-Sophie,Verwee,mariesophie.verwee@ugent.be,"IDLab, Ghent University -imec",,yes
+22,Real-World Implementation of Reinforcement Learning Based Energy Coordination for a Cluster of Households,Manu,Lahariya,,"IDLab, Ghent University -imec"
+22,Real-World Implementation of Reinforcement Learning Based Energy Coordination for a Cluster of Households,Bert,Claessens,,"IDLab, Ghent University -imec"
+22,Real-World Implementation of Reinforcement Learning Based Energy Coordination for a Cluster of Households,Chris,Develder,chris.develder@ugent.be,"IDLab, Ghent University -imec",,yes
+54,A Lightweight Calibrated Simulation Enabling Efficient Offline Learning for Optimal Control of Real Buildings,Judah,Goldfeder,judahg@google.com,Google,United States of America,yes
+54,A Lightweight Calibrated Simulation Enabling Efficient Offline Learning for Optimal Control of Real Buildings,John,Sipple,sipple@google.com,Google,,yes
+71,TBMEnv - An Environment to Assess the Accuracy of Thermal Building Models under Realistic Conditions,David,"Wölfle",woelfle@fzi.de,FZI Research Center for Information Technology,Germany,yes
+71,TBMEnv - An Environment to Assess the Accuracy of Thermal Building Models under Realistic Conditions,Samed,"Voßberg",vossberg@fzi.de,"FZI Research Center for \\Information Technology",,yes
+71,TBMEnv - An Environment to Assess the Accuracy of Thermal Building Models under Realistic Conditions,Hartmut,Schmeck,hartmut.schmeck@kit.edu,Karlsruhe Institute of Technology,Germany,yes
+75,Smart Home Energy Cost Minimisation Using Energy Trading with Deep Reinforcement Learning,Matic,Pokorn,matic.pokorn@gmail.com,Jozef Stefan Institute,Slovenia,yes
+75,Smart Home Energy Cost Minimisation Using Energy Trading with Deep Reinforcement Learning,Mihael,"Mohorčič",miha.mohorcic@ijs.si,Jozef Stefan Institute,,yes
+75,Smart Home Energy Cost Minimisation Using Energy Trading with Deep Reinforcement Learning,Andrej,"Čampa",andrej.campa@ijs.si,ComSensus d.o.o.,,yes
+75,Smart Home Energy Cost Minimisation Using Energy Trading with Deep Reinforcement Learning,Jernej,Hribar,jernej.hribar@ijs.si,Jozef Stefan Institute,,yes
+94,"Economizer Optimization with Reinforcement Learning: An Industry Perspective",Jiaron,Cui,ivancui@amazon.com,Amazon,United States of America,yes
+94,"Economizer Optimization with Reinforcement Learning: An Industry Perspective",Bharathan,Balaji,bhabalaj@amazon.com,Amazon,United States of America,yes
+94,"Economizer Optimization with Reinforcement Learning: An Industry Perspective",Jake,Chen,jakechen@amazon.com,Amazon,,yes
+94,"Economizer Optimization with Reinforcement Learning: An Industry Perspective",Charles,Prosper,cpro@amazon.com,Amazon,,yes
+94,"Economizer Optimization with Reinforcement Learning: An Industry Perspective",Wei Yih,Yap,yihyap@amazon.com,Amazon,,yes
